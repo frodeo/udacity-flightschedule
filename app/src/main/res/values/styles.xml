@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/flight_background</item>
+        <item name="colorPrimaryDark">@color/flight_dark_background</item>
+    </style>
+
+    <!-- Main activity theme. -->
+    <style name="FlightScheduleTheme" parent="AppTheme">
+        <item name="actionBarStyle">@style/ActionBar.Solid.FlightSchedule.NoTitle</item>
+    </style>
+
+    <!-- Settings activity theme. -->
+    <style name="SettingsTheme" parent="AppTheme">
+    </style>
+
+    <!-- main activity action bar styles -->
+    <style name="ActionBar.Solid.FlightSchedule.NoTitle"
+           parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <item name="displayOptions">useLogo|showHome</item>
+        <item name="logo">@drawable/ic_logo</item>
+    </style>
+
+    <style name="MyListStyle">
+        <item name="android:choiceMode">none</item>
+    </style>
+
+</resources>

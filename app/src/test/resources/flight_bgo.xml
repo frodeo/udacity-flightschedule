@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<airport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="http://flydata.avinor.no/XmlFeed.xsd"
+         name="BGO">
+  <flights lastUpdate="2015-04-05T07:49:14Z">
+    <flight uniqueID="4622539">
+      <airline>SK</airline>
+      <flight_id>SK9121</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2014-10-29T00:01:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>OSL</airport>
+    </flight>
+    <flight uniqueID="4781069">
+      <airline>DY</airline>
+      <flight_id>DY6060</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-01-11T08:25:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>OSL</airport>
+    </flight>
+    <flight uniqueID="4963573">
+      <airline>SGH</airline>
+      <flight_id>SGH002</flight_id>
+      <dom_int>I</dom_int>
+      <schedule_time>2015-04-02T12:00:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>FAB</airport>
+    </flight>
+    <flight uniqueID="4955657">
+      <airline>WF</airline>
+      <flight_id>WF612</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-04-03T04:05:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>SVG</airport>
+    </flight>
+    <flight uniqueID="4955658">
+      <airline>WF</airline>
+      <flight_id>WF612</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-04-03T04:30:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>BOO</airport>
+    </flight>
+    <flight uniqueID="4955286">
+      <airline>BA</airline>
+      <flight_id>BA8261</flight_id>
+      <dom_int>S</dom_int>
+      <schedule_time>2015-04-03T12:25:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>BLL</airport>
+    </flight>
+    <flight uniqueID="4955287">
+      <airline>BA</airline>
+      <flight_id>BA8262</flight_id>
+      <dom_int>S</dom_int>
+      <schedule_time>2015-04-03T12:55:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>BLL</airport>
+    </flight>
+    <flight uniqueID="4956396">
+      <airline>WF</airline>
+      <flight_id>WF187</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-04-04T09:37:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>OSL</airport>
+      <via_airport>FDE</via_airport>
+      <status code="A" time="2015-04-04T09:32:00Z"/>
+      <belt>2</belt>
+    </flight>
+    <flight uniqueID="4963939">
+      <airline>DK</airline>
+      <flight_id>DK5736</flight_id>
+      <dom_int>S</dom_int>
+      <schedule_time>2015-04-04T18:50:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>LPA</airport>
+      <belt>3</belt>
+    </flight>
+    <flight uniqueID="4956994">
+      <airline>DY</airline>
+      <flight_id>DY1028</flight_id>
+      <dom_int>S</dom_int>
+      <schedule_time>2015-04-05T06:00:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>KRK</airport>
+      <gate>26A</gate>
+      <status code="D" time="2015-04-05T06:00:00Z"/>
+    </flight>
+    <flight uniqueID="4904279">
+      <airline>SK</airline>
+      <flight_id>SK246</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-04-05T06:20:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>OSL</airport>
+      <gate>28</gate>
+      <status code="D" time="2015-04-05T06:16:00Z"/>
+    </flight>
+    <flight uniqueID="4957265">
+      <airline>DY</airline>
+      <flight_id>DY609</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-04-05T06:30:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>OSL</airport>
+      <gate>31</gate>
+      <status code="D" time="2015-04-05T06:28:00Z"/>
+    </flight>
+    <flight uniqueID="4957027">
+      <airline>DY</airline>
+      <flight_id>DY1316</flight_id>
+      <dom_int>I</dom_int>
+      <schedule_time>2015-04-05T07:15:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>LGW</airport>
+      <gate>24A</gate>
+      <status code="D" time="2015-04-05T07:11:00Z"/>
+    </flight>
+    <flight uniqueID="4957547">
+      <airline>SK</airline>
+      <flight_id>SK2862</flight_id>
+      <dom_int>S</dom_int>
+      <schedule_time>2015-04-05T07:25:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>CPH</airport>
+      <status code="A" time="2015-04-05T07:32:00Z"/>
+    </flight>
+    <flight uniqueID="4957392">
+      <airline>KL</airline>
+      <flight_id>KL1185</flight_id>
+      <dom_int>S</dom_int>
+      <schedule_time>2015-04-05T07:30:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>AMS</airport>
+      <status code="A" time="2015-04-05T07:32:00Z"/>
+      <belt>3</belt>
+    </flight>
+    <flight uniqueID="4957522">
+      <airline>SK</airline>
+      <flight_id>SK266</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-04-05T07:50:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>OSL</airport>
+      <gate>29</gate>
+    </flight>
+    <flight uniqueID="4957549">
+      <airline>SK</airline>
+      <flight_id>SK2865</flight_id>
+      <dom_int>S</dom_int>
+      <schedule_time>2015-04-05T07:55:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>CPH</airport>
+      <gate>26A</gate>
+    </flight>
+    <flight uniqueID="4957393">
+      <airline>KL</airline>
+      <flight_id>KL1186</flight_id>
+      <dom_int>S</dom_int>
+      <schedule_time>2015-04-05T08:00:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>AMS</airport>
+      <gate>25A</gate>
+    </flight>
+    <flight uniqueID="4957212">
+      <airline>DY</airline>
+      <flight_id>DY471</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-04-05T08:20:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>TRF</airport>
+      <status code="E" time="2015-04-05T08:21:00Z"/>
+    </flight>
+    <flight uniqueID="4957656">
+      <airline>SK</airline>
+      <flight_id>SK4156</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-04-05T08:30:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>TRD</airport>
+      <gate>32</gate>
+    </flight>
+    <flight uniqueID="4957267">
+      <airline>DY</airline>
+      <flight_id>DY611</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-04-05T08:40:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>OSL</airport>
+      <gate>28</gate>
+    </flight>
+    <flight uniqueID="4957517">
+      <airline>SK</airline>
+      <flight_id>SK257</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-04-05T08:50:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>OSL</airport>
+    </flight>
+    <flight uniqueID="4972355">
+      <airline>BA</airline>
+      <flight_id>BA758</flight_id>
+      <dom_int>I</dom_int>
+      <schedule_time>2015-04-05T08:50:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>LHR</airport>
+    </flight>
+    <flight uniqueID="4957826">
+      <airline>W6</airline>
+      <flight_id>W61745</flight_id>
+      <dom_int>S</dom_int>
+      <schedule_time>2015-04-05T09:10:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>GDN</airport>
+      <status code="E" time="2015-04-05T09:05:00Z"/>
+    </flight>
+    <flight uniqueID="4957996">
+      <airline>WF</airline>
+      <flight_id>WF587</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-04-05T09:10:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>KRS</airport>
+      <gate>35</gate>
+    </flight>
+    <flight uniqueID="4957520">
+      <airline>SK</airline>
+      <flight_id>SK264</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-04-05T09:20:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>OSL</airport>
+      <gate>29</gate>
+    </flight>
+    <flight uniqueID="4879527">
+      <airline>KL</airline>
+      <flight_id>KL1191</flight_id>
+      <dom_int>S</dom_int>
+      <schedule_time>2015-04-05T09:20:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>AMS</airport>
+      <status code="E" time="2015-04-05T09:20:00Z"/>
+    </flight>
+    <flight uniqueID="4972357">
+      <airline>BA</airline>
+      <flight_id>BA757</flight_id>
+      <dom_int>I</dom_int>
+      <schedule_time>2015-04-05T09:30:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>LHR</airport>
+    </flight>
+    <flight uniqueID="4957936">
+      <airline>WF</airline>
+      <flight_id>WF409</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-04-05T09:30:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>TRF</airport>
+      <gate>33</gate>
+    </flight>
+    <flight uniqueID="4957827">
+      <airline>W6</airline>
+      <flight_id>W61746</flight_id>
+      <dom_int>S</dom_int>
+      <schedule_time>2015-04-05T09:40:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>GDN</airport>
+      <gate>26A</gate>
+    </flight>
+    <flight uniqueID="4957396">
+      <airline>KL</airline>
+      <flight_id>KL1192</flight_id>
+      <dom_int>S</dom_int>
+      <schedule_time>2015-04-05T09:55:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>AMS</airport>
+      <gate>25A</gate>
+    </flight>
+    <flight uniqueID="4957273">
+      <airline>DY</airline>
+      <flight_id>DY617</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-04-05T10:00:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>OSL</airport>
+      <gate>31</gate>
+      <status code="E" time="2015-04-05T12:10:00Z"/>
+      <delayed>Y</delayed>
+    </flight>
+    <flight uniqueID="4957371">
+      <airline>FI</airline>
+      <flight_id>FI338</flight_id>
+      <dom_int>S</dom_int>
+      <schedule_time>2015-04-05T10:15:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>KEF</airport>
+    </flight>
+    <flight uniqueID="4958020">
+      <airline>WF</airline>
+      <flight_id>WF616</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-04-05T10:30:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>TOS</airport>
+      <gate>33</gate>
+    </flight>
+    <flight uniqueID="4957934">
+      <airline>WF</airline>
+      <flight_id>WF394</flight_id>
+      <dom_int>I</dom_int>
+      <schedule_time>2015-04-05T10:40:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>ABZ</airport>
+      <gate>22A</gate>
+    </flight>
+    <flight uniqueID="4958000">
+      <airline>WF</airline>
+      <flight_id>WF591</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-04-05T10:50:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>KRS</airport>
+      <gate>31</gate>
+    </flight>
+    <flight uniqueID="4957372">
+      <airline>FI</airline>
+      <flight_id>FI338</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-04-05T11:00:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>KEF</airport>
+      <via_airport>SVG</via_airport>
+      <gate>24A</gate>
+    </flight>
+    <flight uniqueID="4956995">
+      <airline>DY</airline>
+      <flight_id>DY1029</flight_id>
+      <dom_int>S</dom_int>
+      <schedule_time>2015-04-05T11:05:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>KRK</airport>
+    </flight>
+    <flight uniqueID="4957659">
+      <airline>SK</airline>
+      <flight_id>SK4159</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-04-05T11:05:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>TRD</airport>
+    </flight>
+    <flight uniqueID="4957548">
+      <airline>SK</airline>
+      <flight_id>SK2864</flight_id>
+      <dom_int>S</dom_int>
+      <schedule_time>2015-04-05T11:10:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>CPH</airport>
+    </flight>
+    <flight uniqueID="4957519">
+      <airline>SK</airline>
+      <flight_id>SK263</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-04-05T11:30:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>OSL</airport>
+    </flight>
+    <flight uniqueID="4957277">
+      <airline>DY</airline>
+      <flight_id>DY621</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-04-05T11:30:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>OSL</airport>
+    </flight>
+    <flight uniqueID="4957394">
+      <airline>KL</airline>
+      <flight_id>KL1187</flight_id>
+      <dom_int>S</dom_int>
+      <schedule_time>2015-04-05T11:35:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>AMS</airport>
+    </flight>
+    <flight uniqueID="4957062">
+      <airline>DY</airline>
+      <flight_id>DY169</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-04-05T11:40:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>TRD</airport>
+    </flight>
+    <flight uniqueID="4957557">
+      <airline>SK</airline>
+      <flight_id>SK2875</flight_id>
+      <dom_int>S</dom_int>
+      <schedule_time>2015-04-05T11:40:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>CPH</airport>
+    </flight>
+    <flight uniqueID="4957661">
+      <airline>SK</airline>
+      <flight_id>SK4170</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-04-05T11:45:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>SVG</airport>
+    </flight>
+    <flight uniqueID="4957028">
+      <airline>DY</airline>
+      <flight_id>DY1317</flight_id>
+      <dom_int>I</dom_int>
+      <schedule_time>2015-04-05T11:45:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>LGW</airport>
+    </flight>
+    <flight uniqueID="4957976">
+      <airline>WF</airline>
+      <flight_id>WF512</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-04-05T11:50:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>MOL</airport>
+      <gate>35</gate>
+    </flight>
+    <flight uniqueID="4957526">
+      <airline>SK</airline>
+      <flight_id>SK268</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-04-05T11:55:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>OSL</airport>
+    </flight>
+    <flight uniqueID="4957939">
+      <airline>WF</airline>
+      <flight_id>WF414</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-04-05T12:00:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>TRF</airport>
+    </flight>
+    <flight uniqueID="4957063">
+      <airline>DY</airline>
+      <flight_id>DY170</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-04-05T12:00:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>TRD</airport>
+    </flight>
+    <flight uniqueID="4957395">
+      <airline>KL</airline>
+      <flight_id>KL1188</flight_id>
+      <dom_int>S</dom_int>
+      <schedule_time>2015-04-05T12:15:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>AMS</airport>
+    </flight>
+    <flight uniqueID="4957074">
+      <airline>DY</airline>
+      <flight_id>DY1859</flight_id>
+      <dom_int>S</dom_int>
+      <schedule_time>2015-04-05T12:15:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>FCO</airport>
+    </flight>
+    <flight uniqueID="4957988">
+      <airline>WF</airline>
+      <flight_id>WF572</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-04-05T12:25:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>KSU</airport>
+    </flight>
+    <flight uniqueID="4957525">
+      <airline>SK</airline>
+      <flight_id>SK267</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-04-05T12:55:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>OSL</airport>
+    </flight>
+    <flight uniqueID="4957031">
+      <airline>DY</airline>
+      <flight_id>DY132</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-04-05T13:00:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>SVG</airport>
+    </flight>
+    <flight uniqueID="4957999">
+      <airline>WF</airline>
+      <flight_id>WF590</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-04-05T13:05:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>KRS</airport>
+    </flight>
+    <flight uniqueID="4957816">
+      <airline>VY</airline>
+      <flight_id>VY8514</flight_id>
+      <dom_int>S</dom_int>
+      <schedule_time>2015-04-05T13:15:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>BCN</airport>
+    </flight>
+    <flight uniqueID="4957532">
+      <airline>SK</airline>
+      <flight_id>SK272</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-04-05T13:20:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>OSL</airport>
+    </flight>
+    <flight uniqueID="4957550">
+      <airline>SK</airline>
+      <flight_id>SK2868</flight_id>
+      <dom_int>S</dom_int>
+      <schedule_time>2015-04-05T13:25:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>CPH</airport>
+    </flight>
+    <flight uniqueID="4957907">
+      <airline>WF</airline>
+      <flight_id>WF191</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-04-05T13:27:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>OSL</airport>
+      <via_airport>FDE</via_airport>
+    </flight>
+    <flight uniqueID="4957529">
+      <airline>SK</airline>
+      <flight_id>SK269</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-04-05T13:35:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>OSL</airport>
+    </flight>
+    <flight uniqueID="4957662">
+      <airline>SK</airline>
+      <flight_id>SK4172</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-04-05T13:40:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>TRD</airport>
+    </flight>
+    <flight uniqueID="4957272">
+      <airline>DY</airline>
+      <flight_id>DY616</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-04-05T13:45:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>OSL</airport>
+    </flight>
+    <flight uniqueID="4957935">
+      <airline>WF</airline>
+      <flight_id>WF395</flight_id>
+      <dom_int>I</dom_int>
+      <schedule_time>2015-04-05T13:50:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>ABZ</airport>
+    </flight>
+    <flight uniqueID="4957817">
+      <airline>VY</airline>
+      <flight_id>VY8515</flight_id>
+      <dom_int>S</dom_int>
+      <schedule_time>2015-04-05T13:55:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>BCN</airport>
+    </flight>
+    <flight uniqueID="4957536">
+      <airline>SK</airline>
+      <flight_id>SK274</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-04-05T14:00:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>OSL</airport>
+    </flight>
+    <flight uniqueID="4957556">
+      <airline>SK</airline>
+      <flight_id>SK2873</flight_id>
+      <dom_int>S</dom_int>
+      <schedule_time>2015-04-05T14:00:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>CPH</airport>
+    </flight>
+    <flight uniqueID="4957979">
+      <airline>WF</airline>
+      <flight_id>WF513</flight_id>
+      <dom_int>D</dom_int>
+      <schedule_time>2015-04-05T14:00:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>MOL</airport>
+    </flight>
+  </flights>
+</airport>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:title="@string/pref_airport_label"
+        android:dialogTitle="@string/pref_airport_label"
+        android:key="@string/pref_airport_key"
+        android:defaultValue="@string/pref_airport_default"
+        android:entries="@array/pref_airport_names"
+        android:entryValues="@array/pref_airport_codes"/>
+
+    <EditTextPreference
+        android:title="@string/pref_flight_label"
+        android:key="@string/pref_flight_key"
+        android:defaultValue="@string/pref_flight_default"
+        android:inputType="text"
+        android:singleLine="true"
+        android:hint="@string/pref_flight_hint"/>
+
+    <CheckBoxPreference
+        android:title="@string/pref_notification_label"
+        android:dialogTitle="@string/pref_notification_label"
+        android:key="@string/pref_notification_key"
+        android:defaultValue="@string/pref_notification_default"
+        android:summaryOn="@string/pref_notification_true"
+        android:summaryOff="@string/pref_notification_false"/>
+
+    <CheckBoxPreference
+        android:title="@string/pref_sharerich_label"
+        android:dialogTitle="@string/pref_sharerich_label"
+        android:key="@string/pref_sharerich_key"
+        android:defaultValue="@string/pref_sharerich_default"
+        android:summaryOn="@string/pref_sharerich_true"
+        android:summaryOff="@string/pref_sharerich_false"/>
+
+</PreferenceScreen>

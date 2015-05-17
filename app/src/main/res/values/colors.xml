@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFF</color>
+    <color name="grey">#cccccc</color>
+    <color name="grey_700">#646464</color>
+    <color name="black">#000000</color>
+    
+    <color name="flight_light_background">#b2dfdb</color>   <!-- 100 -->
+    <color name="flight_background">#009688</color>         <!-- 500 -->
+    <color name="flight_dark_background">#00796b</color>    <!-- 700 -->
+    <color name="flight_secondary">#ff4081</color>          <!-- A200 -->
+
+</resources>

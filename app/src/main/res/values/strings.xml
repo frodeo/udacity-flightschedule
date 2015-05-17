@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+    <string name="app_name">Flight Schedule</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_myflight">My flight</string>
+
+    <string name="title_activity_detail">Details</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="action_share">Share</string>
+    <string name="is_delayed">Flight is delayed</string>
+    <string name="no_flights">No flights loaded.</string>
+
+    <string name="yesterday">Yesterday</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="day_1">Monday</string>
+    <string name="day_2">Tuesday</string>
+    <string name="day_3">Wednesday</string>
+    <string name="day_4">Thursday</string>
+    <string name="day_5">Friday</string>
+    <string name="day_6">Saturday</string>
+    <string name="day_7">Sunday</string>
+
+    <string name="format_airline">Airline: <xliff:g id="airline">%1$s</xliff:g></string>
+    <string name="format_gate">Gate: <xliff:g id="gate">%1$s</xliff:g></string>
+    <string name="format_viaAirport">Via: <xliff:g id="via_airport">%1$s</xliff:g></string>
+    <string name="format_checkIn">Checkin area: <xliff:g id="checkin">%1$s</xliff:g></string>
+    <string name="format_belt">Luggage belt: <xliff:g id="belt">%1$s</xliff:g></string>
+    <string name="format_direction">Direction is <xliff:g id="direction">%d</xliff:g> degrees</string>
+
+    <!-- Status -->
+    <string name="status_N">New ifo</string>
+    <string name="status_E">New time</string>
+    <string name="status_D">Departed</string>
+    <string name="status_A">Arrived</string>
+    <string name="status_C">Cancelled</string>
+
+    <!-- Domestic/Schengen/International -->
+    <string name="dom_int_D">Domestic flight</string>
+    <string name="dom_int_S">Schengen flight</string>
+    <string name="dom_int_I">International flight</string>
+
+    <!-- Arrival/departure -->
+    <string name="arr_dep_A">Arrival</string>
+    <string name="arr_dep_D">Departure</string>
+
+    <string name="notification_departure">Your flight <xliff:g id="flightId">%1$s</xliff:g> departs for <xliff:g id="airport">%2$s</xliff:g> at <xliff:g id="time">%3$s</xliff:g></string>
+    <string name="notification_status">Your flight <xliff:g id="flightId">%1$s</xliff:g> for <xliff:g id="airport">%2$s</xliff:g> has new status: <xliff:g id="status">%3$s</xliff:g></string>
+
+    <!-- Preferences -->
+    <string name="pref_airport_label">Airport</string>
+    <string name="pref_airport_key" translatable="false">airport</string>
+    <string name="pref_airport_default" translatable="false">OSL</string>
+    <string name="pref_airport_hint">The airport you want to view flights for</string>
+
+    <string name="pref_flight_label">Flight to watch</string>
+    <string name="pref_flight_key" translatable="false">flight</string>
+    <string name="pref_flight_default" translatable="false"/>
+    <string name="pref_flight_hint">The flight you want to watch</string>
+
+    <string name="pref_notification_label">Flight notifications</string>
+    <string name="pref_notification_key" translatable="false">notifications</string>
+    <string name="pref_notification_true">Enabled</string>
+    <string name="pref_notification_false">Disabled</string>
+    <string name="pref_notification_default" translatable="false">true</string>
+    <string name="pref_notification_hint">Enable or disable flight notifications</string>
+    <string name="pref_notification_last_time" translatable="false">last_notification_time</string>
+    <string name="pref_notification_last_key" translatable="false">last_notification_key</string>
+
+    <string name="pref_sharerich_label">Share rich content</string>
+    <string name="pref_sharerich_key" translatable="false">sharerich</string>
+    <string name="pref_sharerich_true">Enabled</string>
+    <string name="pref_sharerich_false">Disabled</string>
+    <string name="pref_sharerich_default" translatable="false">false</string>
+    <string name="pref_sharerich_hint">Enable or disable sharing of rich content</string>
+
+    <!-- Config -->
+    <string name="content_authority" translatable="false">net.oldervoll.flightschedule</string>
+    <string name="sync_account_type" translatable="false">flightschedule.oldervoll.net</string>
+    <string name="geocoding_api_key">AIzaSyDD0-dRnVIyt1A5vCTE5tFjWSpCs9Hx4MI</string>
+    <string name="timeformat_short" translatable="false">HH:mm</string>
+    <string name="timeformat_long" translatable="false">MMMM dd, HH:mm</string>
+    <string name="dateformat" translatable="false">yyyyMMdd</string>
+    <string name="last_sync_meta" translatable="false">last_sync_metadata</string>
+    <string name="notify_before_departure" translatable="false">60</string>
+    <string name="flight_web_uri">Details: &lt;a href=&quot;https://avinor.no/flight/?fromAirport=<xliff:g id="from">%1$s</xliff:g>&amp;ToAirport=<xliff:g id="to">%2$s</xliff:g>&amp;flightId=<xliff:g id="flightId">%3$s</xliff:g>&amp;date=<xliff:g id="date">%4$s</xliff:g>&quot;><xliff:g id="date">%5$s</xliff:g>&lt;/a></string>
+    <string-array name="pref_airport_codes">
+        <item>OSL</item>
+        <item>BOO</item>
+        <item>BGO</item>
+        <item>KID</item>
+        <item>SVG</item>
+        <item>TOS</item>
+        <item>TRD</item>
+        <item>AES</item>
+        <item>ALF</item>
+        <item>ANX</item>
+        <item>BDU</item>
+        <item>BVG</item>
+        <item>BNN</item>
+        <item>BJF</item>
+        <item>VDB</item>
+        <item>FRO</item>
+        <item>FDE</item>
+        <item>HFT</item>
+        <item>EVE</item>
+        <item>HAA</item>
+        <item>HAU</item>
+        <item>HVG</item>
+        <item>KKN</item>
+        <item>KSU</item>
+        <item>LKL</item>
+        <item>LKN</item>
+        <item>MEH</item>
+        <item>MQN</item>
+        <item>MOL</item>
+        <item>MJF</item>
+        <item>OSY</item>
+        <item>RRS</item>
+        <item>RVK</item>
+        <item>RET</item>
+        <item>SDN</item>
+        <item>SSJ</item>
+        <item>SOG</item>
+        <item>SKN</item>
+        <item>SYG</item>
+        <item>SVJ</item>
+        <item>SOJ</item>
+        <item>VDS</item>
+        <item>VAW</item>
+        <item>VRY</item>
+        <item>HOV</item>
+    </string-array>
+    <string-array name="pref_airport_names">
+        <item>Oslo Lufthavn</item>
+        <item>Bodø lufthavn</item>
+        <item>Bergen lufthavn</item>
+        <item>Kristiansand lufthavn</item>
+        <item>Stavanger lufthavn</item>
+        <item>Tromsø lufthavn</item>
+        <item>Trondheim lufthavn</item>
+        <item>Ålesund lufthavn</item>
+        <item>Alta lufthavn</item>
+        <item>Andøya lufthavn</item>
+        <item>Bardufoss lufthavn</item>
+        <item>Berlevåg lufthavn</item>
+        <item>Brønnøysund lufthavn</item>
+        <item>Båtsfjord lufthavn</item>
+        <item>Fagernes lufthamn</item>
+        <item>Florø lufthavn</item>
+        <item>Førde lufthamn</item>
+        <item>Hammerfest lufthavn</item>
+        <item>Harstad/Narvik lufthavn</item>
+        <item>Hasvik lufthavn</item>
+        <item>Haugesund lufthavn</item>
+        <item>Honningsvåg lufthavn</item>
+        <item>Kirkenes lufthavn</item>
+        <item>Kristiansund lufthavn</item>
+        <item>Lakselv lufthavn</item>
+        <item>Leknes lufthavn</item>
+        <item>Mehamn lufthavn</item>
+        <item>Mo i Rana lufthavn</item>
+        <item>Molde lufthavn</item>
+        <item>Mosjøen lufthavn</item>
+        <item>Namsos lufthavn</item>
+        <item>Røros lufthavn</item>
+        <item>Rørvik lufthavn</item>
+        <item>Røst lufthavn</item>
+        <item>Sandane lufthamn</item>
+        <item>Sandnessjøen lufthavn</item>
+        <item>Sogndal lufthamn</item>
+        <item>Stokmarknes lufthavn</item>
+        <item>Svalbard lufthavn</item>
+        <item>Svolvær lufthavn</item>
+        <item>Sørkjosen lufthavn</item>
+        <item>Vadsø lufthavn</item>
+        <item>Vardø lufthavn</item>
+        <item>Værøy helikopterhavn</item>
+        <item>Ørsta-Volda lufthamn</item>
+    </string-array>
+</resources>
